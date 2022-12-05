@@ -1,0 +1,187 @@
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+    font-family: sans-serif;
+
+}
+
+.navbar{
+
+    display: inline-flex;
+
+    width: 100%;
+
+    height: 120px;
+
+    background: #b22222;
+
+}
+
+.navbar .logo {
+
+    height: 100px;
+
+    width: 100px;
+
+    margin-left: 40px;
+
+}
+
+.navbar .logo img{
+
+    height: 80px;
+
+    width: 80px;
+
+    margin-top: 18px;
+
+    border-radius: 50%;
+
+}
+
+.navbar .title h1{
+
+    color: white;
+
+    font-size: 28px;
+
+    margin: 20px;
+
+}
+
+.navbar .title p{
+
+    color: white;
+
+    margin: 20px;
+
+    font-size: 22px;
+
+}
+
+.navbar .list{
+
+    margin-top: 80px;
+
+    margin-left: 50px;
+
+}
+
+.navbar .list a{
+
+    color: white;
+
+    text-decoration: none;
+
+    font-size: 20px;
+
+    margin: 10px;
+
+}
+
+.main{
+
+    margin-left: 40%;
+
+    margin-top: 1.5%;
+
+}
+
+.main h1{
+
+    color:  #b22222;
+
+    padding: 20px;
+
+}
+
+.main input{
+
+    outline: none;
+
+    padding: 2px;
+
+    height: 25px;
+
+    width: 300px;
+
+}
+
+.main button{
+
+    color: white;
+
+    background: #b22222;
+
+    width: 100px;
+
+    height: 25px;
+
+    cursor: pointer;
+
+    border :none;
+
+    outline: none;
+
+    font-size: 20px;
+
+}
+
+.main a{
+
+    text-decoration: none;
+
+}
+
+.footer{
+
+    display: inline-flex;
+
+    width: 100%;
+
+    height: 90px;
+
+    background: orangered;
+
+    margin-top: 20px;
+
+}
+
+.footer .t2 h2{
+
+    color: white;
+
+    font-size: 20px;
+
+    margin-left: 30px;
+
+    padding-top: 10px;
+
+}
+
+.footer .t2 p{
+
+    color: white;
+
+    margin-left: 30px;
+
+}
+
+.footer .contact{
+
+    margin-left: 300px;
+
+    padding-top: 10px;
+
+}
+
+.footer .contact p{
+
+    color: white;
+
+}
